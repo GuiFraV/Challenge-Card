@@ -7,3 +7,8 @@ HTML/CSS
 
 Difficulté: 
 Flex-box
+
+Bonus:
+:hover
+text-decoration
+box-shadow

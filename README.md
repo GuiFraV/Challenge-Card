@@ -21,6 +21,8 @@ Pour la partie image de la card j'ai utilisé une hauteur de 30% avec un backgro
 
 L'order Summary, le lorem ipsum, l'annual plan, le proceed to payment et le cancel order ont étaient chacun placés dans des div individuelles. Ceci afin de centrer le tout via les attributs justify-content: center; space-around et align-items: center;. Ces attributs permettent de centrer sur l'axe vertical et horizontal.  
 
+L'Annual plan et le prix de $59,99/year sont contenu dans une div ainsi que le logo de la note de musique qui sont eux-même contenu dans une div. Le bouton cliquable Change et aussi contenu d'une div. Via la div parent (#annual) afin de center les éléments via un align-items: center;. Le logo et le titre sont contenu dans une div #annualplan avec une flex direction: row afin d'aligner les deux élements. Puis de les séparer avec un justify-content: space around et enfin un justify-content: left pour les palcer sur la gauche. 
+
 Bonus:
 :hover
 text-decoration
